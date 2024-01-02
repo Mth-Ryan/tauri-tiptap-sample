@@ -1,7 +1,9 @@
-# Tauri + React + Typescript
+# Tauri + React + TipTap Editor
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This is a simple example of a integration between TipTap react and Tauri.
 
-## Recommended IDE Setup
+![App Screenshot](./screenshots/1.png)
+
+### Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
