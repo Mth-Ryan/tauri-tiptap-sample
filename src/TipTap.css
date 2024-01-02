@@ -1,0 +1,15 @@
+&:focus {
+    outline: none !important;
+}
+
+.ProseMirror {
+    margin: 1rem;
+}
+
+.ProseMirror:focus {
+    outline: none;
+}
+
+.ProseMirror-focused {
+    outline: none;
+}
